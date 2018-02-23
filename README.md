@@ -2,7 +2,7 @@
 
 ## Description
 
-Zentube(by NewPipe) does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use Zentube, and it's FLOSS.
+Zentube(Derived from NewPipe) does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use Zentube, and it's FLOSS.
 
 ### Features
 

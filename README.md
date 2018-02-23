@@ -2,7 +2,7 @@
 
 ## Description
 
-NewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS.
+Zentube(by NewPipe) does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use Zentube, and it's FLOSS.
 
 ### Features
 
@@ -34,9 +34,6 @@ NewPipe does not use any Google framework libraries, or the YouTube API. It only
 * Subtitles support
 * livestream support
 * ... and many more
-
-### Multiservice support
-Although NewPipe only supports YouTube at the moment, it's designed to support many more streaming services. The plan is, that NewPipe will get such support by the version 2.0.
 
 ## Contribution
 Whether you have ideas, translations, design changes, code cleaning, or real heavy code changes, help is always welcome.
